@@ -83,6 +83,7 @@ body{
 .bordersize2{
     width:347px;
     height:35px;
+    font-size: 18px;
     margin-top: 5px;
     margin-left: 20px;
     border-radius: 5px;
@@ -91,6 +92,7 @@ body{
 .bordersize1{
     width:162px;
     height:35px;
+    font-size: 18px;
     margin-top: 5px;
     margin-left: 20px;
     margin-bottom: 5px;
@@ -100,6 +102,7 @@ body{
 .bordersize{
     width:162px;
     height:35px;
+    font-size: 18px;
     margin-top: 5px;
     margin-left: 3px;
     margin-bottom: 5px;
